@@ -1,6 +1,4 @@
----
-**Vereinssatzung**
----
+*Vereinssatzung*
 
 
 §1.  **Name und Sitz**
