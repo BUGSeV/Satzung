@@ -171,37 +171,39 @@
         einzusetzen.
 
     4.  Der Vorstand kann verbindliche Ordnungen erlassen.
+    
+    5.  Der Verein wird gerichtlich und außergerichtlich durch mindestens ein Mitglied des Vorstands vertreten.
 
-    5.  Der Vorstand kann Satzungsänderungen ohne Einberufung der
+    6.  Der Vorstand kann Satzungsänderungen ohne Einberufung der
         Mitgliederversammlung durchführen, sofern amtliche
         Beanstandungen existieren. Die Änderungen dürfen nur den Zweck
         verfolgen besagten Beanstandungen nachzukommen. Etwaige
         Änderungen müssen unverzüglich allen Mitgliedern mitgeteilt
         werden.
 
-    6.  Der Vorstand muss stets aus einer ungeraden Anzahl an
+    7.  Der Vorstand muss stets aus einer ungeraden Anzahl an
         natürlichen Personen bestehen. Sollte dies nicht gewährleistet
         sein, hat der 1. Vorsitzende, bzw. bei dessen Abwesenheit der 2.
         Vorsitzende, bei Stimmengleichheit die Entscheidungsmacht.
 
-    7.  Die Mitglieder des Vorstands werden für jeweils zwei Jahre
+    8.  Die Mitglieder des Vorstands werden für jeweils zwei Jahre
         gewählt. Sie bleiben im Amt, bis ein neuer Vorstand gewählt ist.
 
-    8.  Vorstände können beliebig oft erneut gewählt werden.
+    9.  Vorstände können beliebig oft erneut gewählt werden.
 
-    9.  Das Amt des Vereinsvorstands wird grundsätzlich ehrenamtlich
+    10. Das Amt des Vereinsvorstands wird grundsätzlich ehrenamtlich
         ausgeübt.
 
-    10. Die Mitgliederversammlung kann abweichend von Absatz 9
+    11. Die Mitgliederversammlung kann abweichend von Absatz 9
         beschließen, dass dem Vorstand für seine Vorstandstätigkeit eine
         pauschalierte und angemessene Vergütung (im Rahmen des §3 Nummer
         26a EStG) gezahlt wird.
 
-    11. Der Vorstand hat Anspruch auf Erstattung notwendiger Auslagen im
+    12. Der Vorstand hat Anspruch auf Erstattung notwendiger Auslagen im
         Rahmen einer von der Mitgliederversammlung zu beschließenden
         Richtlinie über die Erstattung von Reisekosten und Auslagen.
 
-    12. Ist ein Vorstandsmitglied andauernd an der Ausübung seines Amtes
+    13. Ist ein Vorstandsmitglied andauernd an der Ausübung seines Amtes
         verhindert, so muss dieses Amt unverzüglich durch eine Wahl neu
         zu besetzen. Die Amtsperiode des neuen Vorstandsmitglieds endet
         zum ursprünglichen Ende der Amtszeit des ehemaligen
