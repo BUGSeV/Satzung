@@ -3,7 +3,7 @@
 
 §1.  **Name und Sitz**
 
-    1.  Der am 24. Oktober 2017 gegründete Verein führt folgenden Namen:
+    1.  Der am 19. November 2017 gegründete Verein führt folgenden Namen:
         Bitcoin User Group Stuttgart (BUGS).
 
     2.  Der Verein soll in das Vereinsregister eingetragen werden. Ab
@@ -233,7 +233,7 @@
 
 §12. **Inkrafttreten**
 
-    Die Satzung ist in der vorliegenden Form am 24. Oktober 2017 von der
+    Die Satzung ist in der vorliegenden Form am 19. November 2017 von der
     Mitgliederversammlung des Vereins Bitcoin User Group Stuttgart
     (BUGS) beschlossen worden und tritt nach Eintragung in das
     Vereinsregister in Kraft.
