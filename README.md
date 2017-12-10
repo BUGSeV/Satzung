@@ -100,7 +100,7 @@
     1.  Die ordentliche Mitgliederversammlung findet zweimal jährlich
         statt. Des Weiteren muss eine Mitgliederversammlung einberufen
         werden, wenn das Interesse des Vereins es erfordert oder, wenn
-        mindestens der Mitglieder die Einberufung schriftlich unter der
+        mindestens 1/5 der Mitglieder die Einberufung schriftlich unter der
         Angabe des Zwecks und der Gründe verlangt.
 
     2.  Mitgliederversammlungen werden vom Vorstand schriftlich oder in
@@ -124,7 +124,7 @@
     6.  Die Beschlüsse der Mitgliederversammlung werden mit einfacher
         Mehrheit der abgegebenen gültigen Stimmen erfasst. Jede Änderung
         der Satzung oder des Vereinszwecks, benötigt eine Mehrheit von
-        der abgegebenen gültigen Stimmen.
+        2/3 der abgegebenen gültigen Stimmen.
 
     7.  Weiterhin ist über die Beschlüsse der Mitgliederversammlung ein
         Protokoll zu erstellen. Das Protokoll ist vom Versammlungsleiter
@@ -141,7 +141,7 @@
 
     9.  Anträge müssen eine Woche vor der Mitgliederversammlung beim
         Vorstand des Vereins eingegangen sein. Wenn der Antrag später
-        eingeht, darf dieser nur wenn die Dringlichkeit mit einer
+        eingeht, darf dieser nur wenn die Dringlichkeit mit einer 2/3
         Mehrheit bejaht wird, berücksichtigt werden. Dies gilt ebenfalls
         für Satzungsänderungen.
 
@@ -221,7 +221,7 @@
 
 §11. **Auflösung, Anfall des Vereinsvermögens**
 
-    1.  Der Verein kann mit einer Mehrheit der abgegebenen gültigen
+    1.  Der Verein kann mit einer 3/4 Mehrheit der abgegebenen gültigen
         Stimmen aufgelöst werden.
 
     2.  Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter
