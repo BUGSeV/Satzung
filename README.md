@@ -194,7 +194,7 @@
     10. Das Amt des Vereinsvorstands wird grundsätzlich ehrenamtlich
         ausgeübt.
 
-    11. Die Mitgliederversammlung kann abweichend von Absatz 9
+    11. Die Mitgliederversammlung kann abweichend von Absatz 10
         beschließen, dass dem Vorstand für seine Vorstandstätigkeit eine
         pauschalierte und angemessene Vergütung (im Rahmen des §3 Nummer
         26a EStG) gezahlt wird.
