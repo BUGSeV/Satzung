@@ -20,10 +20,10 @@
         Abgabenordnung.
 
     2.  Zweck des Vereins ist die Förderung, Erziehung, Volks- und
-        Berufsbildung, sowie Kriminalprävention.
+        Berufsbildung, sowie Kriminalprävention, insbesondere im Bereich
+        Bitcoin und Kryptowährungen.
 
-    3.  Der Satzungszweck wird insbesondere im Bereich Bitcoin und
-        Kryptowährungen durch folgende Tätigkeiten verwirklicht:
+    3.  Der Satzungszweck wird durch folgende Tätigkeiten verwirklicht:
 
         i)  Durchführung von Vorträgen
 
@@ -182,9 +182,7 @@
         werden.
 
     7.  Der Vorstand muss stets aus einer ungeraden Anzahl an
-        natürlichen Personen bestehen. Sollte dies nicht gewährleistet
-        sein, hat der 1. Vorsitzende, bzw. bei dessen Abwesenheit der 2.
-        Vorsitzende, bei Stimmengleichheit die Entscheidungsmacht.
+        natürlichen Personen bestehen. 
 
     8.  Die Mitglieder des Vorstands werden für jeweils zwei Jahre
         gewählt. Sie bleiben im Amt, bis ein neuer Vorstand gewählt ist.
